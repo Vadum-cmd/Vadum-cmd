@@ -20,3 +20,10 @@
   <img width=30 style="padding: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img width=30 style="padding: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
 </div>
+
+### 📊 GitHub Stats:
+[![](https://visitcount.itsvg.in/api?id=Vadum-cmd&icon=0&color=0)](https://visitcount.itsvg.in)
+
+![](https://github-readme-stats.vercel.app/api?username=Vadum-cmd&theme=monokai&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Vadum-cmd&theme=monokai&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vadum-cmd&theme=monokai&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
