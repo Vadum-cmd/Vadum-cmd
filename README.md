@@ -2,7 +2,6 @@
 ### 🧘🏽‍♂️About me
 👋Hi there! 
 <br>📦 I'm a <b>Software developer</b> with 3 years of self-education experience.
-💡I have a good understanding of OOP and SOLID principles.
 <br>🌱Currently learning <b>.NET Core and NodeJS</b>.
 
 ### 🛠️🧰Laguages and Tools
